@@ -16,8 +16,7 @@ class Solution {
         {
             de.addLast(temp);
             temp=temp.next;
-        }
-        
+        } 
         temp=head;
         ListNode temp1=head;
         de.removeFirst();
